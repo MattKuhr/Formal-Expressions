@@ -1,9 +1,9 @@
 
-/**
-* Author: 	Lorelon 
-* Date:		11/05/2017
-* 
-**/
+{-
+- Author: 	Lorelon 
+- Date:		11/05/2017
+- 
+-}
 
 
 module Term where
